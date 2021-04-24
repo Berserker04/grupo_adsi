@@ -1,0 +1,16 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#main {
+  border: 2px solid gray;
+  border-color: blanchedalmond;
+  width: 70%;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.articulo {
+  padding: 40px;
+}
