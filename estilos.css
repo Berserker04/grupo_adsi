@@ -16,8 +16,9 @@ body {
 }
 
 #cabecera {
+  /* font-family: "C"; */
   color: white;
-  background-color: blue;
+  background-color: slateblue;
   width: 100%;
   height: 70px;
   display: flex;
